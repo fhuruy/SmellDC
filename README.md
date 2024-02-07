@@ -9,3 +9,5 @@ This summary, or 'Quick Stats', includes the total number of reports for each re
 In addition to creating and viewing daily smell reports, users can view their history of submitted reports.
 
 User authentication and report related data is stored through the Google Firebase platform.
+
+Demo: https://youtu.be/QpzEfbjMJ7k
