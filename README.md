@@ -22,9 +22,42 @@ https://youtu.be/QpzEfbjMJ7k
 <img src="images/1.png" width="400" height="700">
 
 ### Creating account
-![Creating account](images/2.png)
+
+<img src="images/2.png" width="400" height="700">
 
 ### Welcome page
 
-![Welcome page](images/3.png)
+<img src="images/3.png" width="400" height="700">
+
+### User's history of submitted reports
+
+<img src="images/4.png" width="400" height="700">
+
+### Interactive map
+
+<img src="images/5.png" width="400" height="700">
+
+### All submitted user reports (represented by map markers)
+
+<img src="images/6.1.png" width="400" height="700">
+
+### Clicking on a user report marker reveals details of that individual report
+
+<img src="images/6.2.png" width="400" height="700">
+
+### Creating a report by first selecting a location on the map
+
+<img src="images/7.png" width="400" height="700">
+
+### After selecting a location, the smell report form appears
+
+<img src="images/8.png" width="400" height="700">
+
+### Summary of all submitted user reports by region
+
+<img src="images/9.png" width="400" height="700">
+
+
+
+
 
