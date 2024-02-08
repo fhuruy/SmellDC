@@ -15,3 +15,16 @@ User authentication and report related data is stored through the Google Firebas
 
 ## Demo 
 https://youtu.be/QpzEfbjMJ7k
+
+## Images
+### Login page
+
+![Login page](images/1.png)
+
+### Creating account
+![Creating account](images/2.png)
+
+### Welcome page
+
+![Welcome page](images/3.png)
+
