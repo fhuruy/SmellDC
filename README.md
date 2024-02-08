@@ -62,20 +62,37 @@ https://youtu.be/QpzEfbjMJ7k
 ## List of external libraries and code used in this project
 
 Icons from Freepik.com
+
 com.google.firebase.FirebaseApp
+
 com.google.firebase.auth.FirebaseAuth
+
 com.google.firebase.auth.FirebaseUser
+
 com.google.firebase.database.FirebaseDatabase
+
 com.google.firebase.database.DatabaseReference
+
 com.google.firebase.database.DataSnapshot
+
 com.google.firebase.database.DatabaseError
+
 com.google.firebase.database.ValueEventListener
+
 com.google.android.gms.maps.GoogleMap
+
 com.google.android.gms.maps.CameraUpdateFactory
+
 com.google.android.gms.maps.OnMapReadyCallback
+
 com.google.android.gms.maps.SupportMapFragment
+
 com.google.android.gms.maps.model.BitmapDescriptorFactory
+
 com.google.android.gms.maps.model.LatLng
+
 com.google.android.gms.maps.model.LatLngBounds
+
 com.google.android.gms.maps.model.Marker
+
 com.google.android.gms.maps.model.MarkerOptions
