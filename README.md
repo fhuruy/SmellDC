@@ -49,7 +49,7 @@ https://youtu.be/QpzEfbjMJ7k
 
 <img src="images/7.png" width="400" height="700">
 
-### After selecting a location, the smell report form appears
+### Smell report form 
 
 <img src="images/8.png" width="400" height="700">
 
