@@ -19,7 +19,7 @@ https://youtu.be/QpzEfbjMJ7k
 ## Images
 ### Login page
 
-![Login page](images/1.png =250x250)
+![Login page](images/1.png | width=100)
 
 ### Creating account
 ![Creating account](images/2.png)
