@@ -19,8 +19,7 @@ https://youtu.be/QpzEfbjMJ7k
 ## Images
 ### Login page
 
-![Login page](images/1.png | width=100)
-<img src="images/1.png" width="100" height="100">
+<img src="images/1.png" width="500" height="700">
 
 ### Creating account
 ![Creating account](images/2.png)
